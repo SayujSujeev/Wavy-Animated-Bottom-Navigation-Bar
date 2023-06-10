@@ -2,6 +2,9 @@
 
 ![App UI](/both.gif)
 
-![App UI](/wavybar.gif)
-
-![App UI](/withbutton.gif)
+<table>
+  <tr>
+    <td><img src="/wavybar.gif" alt="App UI"/></td>
+    <td><img src="/withbutton.gif" alt="App UI"/></td>
+  </tr>
+</table>
